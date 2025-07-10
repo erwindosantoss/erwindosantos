@@ -3,7 +3,7 @@ export default function Portofolio() {
     {
       name: "Pinarak Resto",
       image: "/images/pinarak.png",
-      url: "https://contoh1.com",
+      url: "https://svelteapp-erwin.vercel.app/",
       description:
         "This website was developed as part of the final assignment for the Front-End Web Developer Expert course by Dicoding. It serves as an informational platform where users can comment on each restaurant.",
       stack: "Javascript, Webpack, PWA, IDB, Jasmine, Karma, Sass",
