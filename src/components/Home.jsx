@@ -18,7 +18,7 @@ export default function Home() {
         </p>
 
         <a
-          href="/cv.pdf" 
+          href="https://drive.google.com/drive/folders/1PMDyXfDxpGSJcs3303moFbv5dWjPz2z8?usp=sharing" 
           className="inline-block mt-8 border border-sky-400 text-sky-400 px-6 py-3 rounded hover:bg-sky-400 hover:text-[#0a192f] transition"
         >
           View my CV here!
