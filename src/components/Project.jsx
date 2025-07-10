@@ -1,12 +1,13 @@
-export default function Portofolio() {
+import svelteAppImage from "../assets/svelteapp.png";
+export default function Project() {
   const projects = [
     {
-      name: "Pinarak Resto",
-      image: "/images/pinarak.png",
+      name: "Build and Deploy App with Docker",
+      image: svelteAppImage,
       url: "https://svelteapp-erwin.vercel.app/",
       description:
-        "This website was developed as part of the final assignment for the Front-End Web Developer Expert course by Dicoding. It serves as an informational platform where users can comment on each restaurant.",
-      stack: "Javascript, Webpack, PWA, IDB, Jasmine, Karma, Sass",
+        "A simple web application built with Svelte and Vite as part of Operating System lab assignment. The project demonstrates how to build, containerize using Docker, push to Docker Hub, and deploy the app publicly with Vercel.",
+      stack: "Svelte, Vite, Docker, Docker Hub, GitHub, Vercel",
     }
   ];
 
