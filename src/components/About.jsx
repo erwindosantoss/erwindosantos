@@ -10,24 +10,25 @@ export default function About() {
         </h2>
         <div className="space-y-5 text-slate-400 text-base leading-relaxed">
           <p>
-            Hello! My name is <strong>Erwin Dosantos Wowa</strong>, a
-            6th-semester Informatics Engineering student with a strong passion
-            for Web Development. I specialize as a Fullstack Developer, with
-            solid experience using JavaScript and TypeScript on both frontend
-            and backend sides.
+            Hi! I'm a passionate and curious developer who loves learning by
+            doing. I’ve built and deployed several web applications using modern
+            frameworks like <strong>React</strong>, <strong>Svelte</strong>, and{" "}
+            <strong>Vite</strong>. Through my academic projects, I’ve gained
+            hands-on experience with <strong>Docker</strong>,{" "}
+            <strong>GitHub</strong>, and <strong>Vercel</strong>, including
+            containerizing apps and publishing them online.
           </p>
           <p>
-            As a student who actively explores the tech ecosystem, I’ve
-            developed proficiency in the ReactJS ecosystem as well as backend
-            frameworks like Node.js and Express. I enjoy building responsive and
-            user-friendly web applications that are not only functional but also
-            visually engaging.
+            I enjoy exploring how things work under the hood, debugging tricky
+            errors, and turning small ideas into working products. My current
+            stack includes <strong>JavaScript</strong>,{" "}
+            <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, and
+            tools like <strong>Node.js</strong>, <strong>Postman</strong>, and{" "}
+            <strong>Git</strong>.
           </p>
           <p>
-            I’m committed to continuously sharpening my skills through hands-on
-            projects, independent learning, and staying updated with the latest
-            trends in software development. For me, consistency and curiosity
-            are the keys to growth as a developer.
+            I'm continuously growing as a developer and always excited to build
+            something new!
           </p>
         </div>
       </div>
