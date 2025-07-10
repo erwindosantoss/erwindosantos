@@ -1,9 +1,8 @@
-import svelteAppImage from "../assets/svelteapp.png";
 export default function Project() {
   const projects = [
     {
       name: "Build and Deploy App with Docker",
-      image: svelteAppImage,
+      image: "",
       url: "https://svelteapp-erwin.vercel.app/",
       description:
         "A simple web application built with Svelte and Vite as part of Operating System lab assignment. The project demonstrates how to build, containerize using Docker, push to Docker Hub, and deploy the app publicly with Vercel.",
